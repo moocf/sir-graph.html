@@ -1,0 +1,25 @@
+{
+  "name": "sir-graph",
+  "version": "0.0.1",
+  "description": "Disease modelling using graph algorithms.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiithf/sir-graph.git"
+  },
+  "keywords": [
+    "graph",
+    "sir",
+    "model"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iiithf/sir-graph/issues"
+  },
+  "homepage": "https://github.com/iiithf/sir-graph#readme"
+}

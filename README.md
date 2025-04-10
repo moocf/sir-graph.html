@@ -16,5 +16,7 @@ See [SIR-SSSP.pdf] for details.
 ![](assets/02.png)<br>
 ![](assets/03.png)<br>
 
+![](https://ga-beacon.deno.dev/G-G1E8HNDZYY:v51jklKGTLmC3LAZ4rJbIQ/github.com/moocf/sir-graph.html)
+
 [Infectious Disease Modeling]: https://github.com/iiithf/infectious-disease-modeling
 [SIR-SSSP.pdf]: SIR-SSSP.pdf
